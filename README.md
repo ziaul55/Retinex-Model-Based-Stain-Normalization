@@ -1,4 +1,6 @@
-# Cite Link 'BibTeX'
+# Retinex Model Based Stain Normalization Technique for Whole Slide Image Analysis
+
+# BibTeX
 
 @article{hoque2021retinex,
   title={Retinex model based stain normalization technique for whole slide image analysis},
