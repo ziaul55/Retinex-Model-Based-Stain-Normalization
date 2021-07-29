@@ -1,3 +1,5 @@
+# Cite Link 'BibTeX'
+
 @article{hoque2021retinex,
   title={Retinex model based stain normalization technique for whole slide image analysis},
   author={Hoque, Md Ziaul and Keskinarkaus, Anja and Nyberg, Pia and Sepp{\"a}nen, Tapio},
