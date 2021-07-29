@@ -2,8 +2,11 @@
 
 # Highlights
 • Retinex model based stain normalization technique in terms of area segmentation from stained tissue images.
+
 • A method removing color variability to overcome heterogeneity in digital slides for comparative analysis in histopathology.
+
 • A study of staining difference and color normalization of hematoxylin and eosin stained whole slide images.
+
 • Novel research with potential improvement of accuracy and consistency in development of computer aided diagnostic tools.
 
 
