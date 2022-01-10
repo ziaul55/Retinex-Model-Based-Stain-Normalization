@@ -1,5 +1,7 @@
 # Retinex Model Based Stain Normalization Technique for Whole Slide Image Analysis
 
+## Journal: Computerized Medical Imaging and Graphics - Elsevier
+
 ## Highlights
 • Retinex model based stain normalization technique in terms of area segmentation from stained tissue images.
 
