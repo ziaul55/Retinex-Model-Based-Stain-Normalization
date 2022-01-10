@@ -2,6 +2,8 @@
 
 ## Journal: Computerized Medical Imaging and Graphics - Elsevier
 
+## Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg and Tapio Seppänen
+
 ## Highlights
 • Retinex model based stain normalization technique in terms of area segmentation from stained tissue images.
 
