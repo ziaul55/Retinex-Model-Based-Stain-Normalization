@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="Auto%" src="https://ars.els-cdn.com/content/image/1-s2.0-S0895611121000495-gr8_lrg.jpg" height="175px"/></a>
+<a href="#"><img width="50%" height=50%" src="https://ars.els-cdn.com/content/image/1-s2.0-S0895611121000495-gr8_lrg.jpg" height="175px"/></a>
 
 ## Retinex Model Based Stain Normalization Technique for Whole Slide Image Analysis
 #### Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg and Tapio Seppänen
