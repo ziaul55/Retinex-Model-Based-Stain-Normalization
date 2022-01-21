@@ -1,7 +1,4 @@
-<a href="#"><img width="100%" height="Auto%" src="https://citadelhealth.com.au/wp-content/uploads/2019/07/ai2-3840x1286.jpg" height="175px"/></a>
-
-<h1 align="center">|<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">| Md. Ziaul Hoque |</h1>
-<h3 align="center">|| A Passionate Researcher and Software Developer ||</h3>
+<a href="#"><img width="100%" height="Auto%" src="https://ars.els-cdn.com/content/image/1-s2.0-S0895611121000495-gr8_lrg.jpg" height="175px"/></a>
 
 ## Retinex Model Based Stain Normalization Technique for Whole Slide Image Analysis
 #### Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg and Tapio Seppänen
