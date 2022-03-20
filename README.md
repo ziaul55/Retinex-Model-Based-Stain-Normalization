@@ -1,6 +1,6 @@
 ## [Retinex Model Based Stain Normalization Technique for Whole Slide Image Analysis](https://www.sciencedirect.com/science/article/pii/S0895611121000495)
 #### Authors: Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg and Tapio Seppänen
-#### Journal: [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) - Elsevier 
+#### Journal: [Computerized Medical Imaging and Graphics](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics) - Elsevier **||** Volume 90, June 2021, 101901 **||**
 ##
 
 ### Highlights
